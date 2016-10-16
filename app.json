@@ -1,1 +1,1 @@
-{"name":"devise avatars","repository":"https://github.com/initialversion/devise-avatars-1476588597","env":{"CLOUDINARY_CLOUD_NAME":{"required":true},"CLOUDINARY_API_KEY":{"required":true},"CLOUDINARY_API_SECRET":{"required":true}}}
+{"name":"devise avatars","repository":"https://github.com/initialversion/devise-avatars-1476588597","env":{"CLOUDINARY_CLOUD_NAME":{"required":true},"CLOUDINARY_API_KEY":{"required":true},"CLOUDINARY_API_SECRET":{"required":true},"ROLLBAR_ACCESS_TOKEN":{"required":true}}}
